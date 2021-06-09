@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="schedule_notification">Schedule Notification</string>
+    <string name="title_here">Title here…</string>
+    <string name="upcoming_activity">Upcoming Activity</string>
+    <string name="content">Content</string>
+    <string name="upcoming_activity_name">Upcoming activity name</string>
+    <string name="cancel">Cancel</string>
+</resources>
